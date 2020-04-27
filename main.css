@@ -1,0 +1,15 @@
+body{
+    background-image: url('C:\Users\vicki\Desktop\Jai\req pics\deepak.jpg');
+}
+
+
+.box{
+
+    display: grid;
+    width: 600px;
+    height: 450px;
+    margin: 150px auto;
+    grid-template-columns: repeat(5,100px);
+    grid-template-rows: repeat(4,100px);
+
+}
